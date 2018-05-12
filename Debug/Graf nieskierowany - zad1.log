@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\michał\source\repos\graf nieskierowany - zad1\main.cpp(21): warning C4244: "return": konwersja z "unsigned __int64" do "int", możliwa utrata danych
+c:\users\michał\source\repos\graf nieskierowany - zad1\main.cpp(72): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+c:\users\michał\source\repos\graf nieskierowany - zad1\main.cpp(279): warning C4244: "=": konwersja z "__int64" do "int", możliwa utrata danych
+c:\users\michał\source\repos\graf nieskierowany - zad1\main.cpp(199): warning C4101: "r": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\michał\source\repos\graf nieskierowany - zad1\main.cpp(452): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Graf nieskierowany - zad1.vcxproj -> C:\Users\Michał\source\repos\Graf nieskierowany - zad1\Debug\Graf nieskierowany - zad1.exe
